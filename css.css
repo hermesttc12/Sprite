@@ -1,0 +1,18 @@
+#gato, #gato1
+{
+  width: 70px;
+  height: 70px;
+  border: 1px solid red;
+}
+
+
+ .container  {
+    background: url( csg-533cba366d228.png) no-repeat top left;
+}
+
+.paso1{ background-position: 0 0; width: 84px; height: 56px; } 
+.paso2{ background-position: -134px 0; width: 84px; height: 56px; } 
+.paso3{ background-position: -268px 0; width: 84px; height: 56px; } 
+.paso4{ background-position: -402px 0; width: 84px; height: 56px; } 
+.paso5{ background-position: -536px 0; width: 84px; height: 56px; } 
+.paso6{ background-position: -670px 0; width: 84px; height: 56px; } 
